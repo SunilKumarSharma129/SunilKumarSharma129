@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋%20,%20I'm%20Sunil%20Sharma&reversal=false&fontAlignY=43&animation=fadeIn&fontColor=ffffff&fontSize=40"/>
 </p>
-<h1 align="center">Hi 👋, I'm Sunil Sharma — Software Engineer with a strong focus on backend development, cloud-native architecture, and building scalable, reliable systems.</h1>
+<h1 align="center">A passionate developer specializing in backend development, cloud-native architecture, and building scalable, reliable systems.</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <image align="right" alt ="coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_hybrid&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilkumarsharma129&label=Profile%20views&color=0e75b6&style=flat" alt="sunilkumarsharma129" /> </p>
